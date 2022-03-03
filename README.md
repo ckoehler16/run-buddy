@@ -12,3 +12,6 @@ https://lernantino.github.io/run-buddy/
 
 ## Contribution
 Made with ❤️ by Courtney Koehler
+
+### ©️2019 Run Buddy, Inc
+
